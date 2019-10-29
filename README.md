@@ -1,5 +1,5 @@
 # Learning Caravaggio
-A good looking Neural Style Transfer project
+A good looking Neural Style Transfer project.
 
 ## Why not?
 I have been always passionate of art. Some time ago, while studying for the class of Deep Learning, at the third of fourth lession (do not remember, actually) the teacher told me about the possibility of "smashing" the style of a painter on a picture. With no previous experience, maybe getting too much into it, luckily, I found a lot of material to study.
